@@ -1,3 +1,7 @@
+<h1 align="center">A No Man's Sky Mod</h1>
+
+<img src="./farm.webp" alt="Cover avatar" width="100%" height="300px"/>
+
 # Usage
 
 Download the mod on NexusMods or use the `Crop_Growth_Tweaks.lua` with [AMUMSS](https://www.nexusmods.com/nomanssky/mods/957) to edit plant growth yourself / merge with other mods.
